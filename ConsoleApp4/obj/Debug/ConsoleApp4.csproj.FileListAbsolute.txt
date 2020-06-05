@@ -1,0 +1,14 @@
+C:\Users\Vova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Vova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Vova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Vova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Vova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Vova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Vova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\palm\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\palm\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\palm\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\palm\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\palm\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\palm\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\palm\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
